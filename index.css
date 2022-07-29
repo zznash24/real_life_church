@@ -14,3 +14,9 @@
         background-color: #f2f2f2;
         padding: 25px;
       }
+
+      #jumlogo {
+        background-image: url(https://s3.amazonaws.com/media.cloversites.com/ab/abb74e7a-1db0-4f00-91cf-642b036c235b/gallery/slides/e8c5642e-7427-4c98-9fd1-0b967d5ec514.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
